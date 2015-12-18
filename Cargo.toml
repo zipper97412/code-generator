@@ -1,0 +1,4 @@
+[package]
+name = "code-generator"
+version = "0.1.0"
+authors = ["zipper97412 <zipper97412@gmail.com>"]
